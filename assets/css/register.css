@@ -1,0 +1,78 @@
+.foo {
+  border-radius: 3px;
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+.blue {
+  background: #00346B;
+    margin-left: 600px;
+    margin-top: -112px;
+}
+.purple {
+  background: #5A0093;
+    margin-left: 600px;
+    margin-top: -104px;
+}
+.green{
+  background: #009B01;
+  margin-left: 623px;;
+  margin-top: -112px;
+}
+.brown {
+  background: #8F6004;
+    margin-left: 623px;
+    margin-top: -104px;
+}
+.pink {
+  background: #FF3198;
+  margin-left: 646px;
+  margin-top: -112px;
+}
+.lightpink {
+  background: #F9686B;
+  margin-left: 646px;
+  margin-top: -104px;
+}
+.black {
+  background: #333333;
+  margin-left: 669px;
+  margin-top: -112px;
+}
+.darkgreen {
+  background: #006800;
+  margin-left: 669px;
+  margin-top: -104px;
+}
+.red {
+  background: #CC0008;
+  margin-left: 692px;
+  margin-top: -112px;
+}
+.lightblue {
+  background: #0099CF;
+  margin-left: 692px;
+  margin-top: -104px;
+}
+.orange {
+  background: #FC6800;
+  margin-left: 715px;
+  margin-top: -112px;
+}
+.lightgreen {
+  background: #89E20E;
+  margin-left: 715px;
+  margin-top: -104px;
+}
+.yellow {
+  background: #FFCA00;
+  margin-left: 738px;
+  margin-top: -112px;
+}
+.grey {
+  background: #92A2A2;
+  margin-left: 738px;
+  margin-top: -104px;
+}
